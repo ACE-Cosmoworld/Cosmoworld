@@ -1,1 +1,22 @@
-colors and fonts
+@import url("https://fonts.googleapis.com/css2?family=Average+Sans&family=Capriola&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/logo.css");
+@import url("components/button.css");
+
+body {
+font-family: 'Average Sans', sans-serif;
+font-size: 18px; 
+}
+
+h1, h2, h3 { 
+font-family: 'Capriola', sans-serif;
+font-weight: bold;
+}
+
+a { 
+	text-decoration: none;
+
+}
+
